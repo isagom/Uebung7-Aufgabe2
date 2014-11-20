@@ -2,7 +2,7 @@
 ================
 E-Banking
 ================
-Logins Methode
+Login Methoden
 ----------------
      
     *Kartenleser 
